@@ -30,7 +30,7 @@ public class SelenideSearch {
             //проверить,пристуствует ли на странице текст SoftAssertions
             $("body").shouldHave(Condition.text("SoftAssertions"));
 
-            //кликнуть по ссылке SodtaAssertions
+            //кликнуть по ссылке SoftAssertions
             $x("//div/a[text()='SoftAssertions']").click();
 
             //Убедится, что на странице присуствует присер кода JUnit5
