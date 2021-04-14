@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="test.SelenideSearch" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-04-14T09:08:59" hostname="DESKTOP-TT5P1O0" time="13.177">
+  <properties/>
+  <testcase name="SelenideSearch()" classname="test.SelenideSearch" time="13.177"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[[Test worker] INFO com.codeborne.selenide.impl.WebDriverThreadLocalContainer - No webdriver is bound to current thread: 11 - let's create a new webdriver
+[Test worker] INFO com.codeborne.selenide.impl.FileHelper - Creating folder: C:\Users\Max\IdeaProjects\SelenideStart\build\downloads\1618391339888_9232_11
+[Test worker] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 89.0.4389.23 (resolved driver for Chrome 89)
+[Test worker] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Max\.cache\selenium\chromedriver\win32\89.0.4389.23\chromedriver.exe
+[Test worker] INFO com.codeborne.selenide.webdriver.AbstractDriverFactory - Write webdriver logs to: C:\Users\Max\IdeaProjects\SelenideStart\build\reports\tests\webdriver.1618391340971_9232_11.log
+Starting ChromeDriver 89.0.4389.23 (61b08ee2c50024bab004e48d2b1b083cdbdac579-refs/branch-heads/4389@{#294}) on port 3738
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+апр 14, 2021 12:09:03 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+[Test worker] INFO com.codeborne.selenide.webdriver.WebDriverFactory - BrowserName=chrome Version=89.0.4389.128 Platform=WINDOWS
+[Test worker] INFO com.codeborne.selenide.webdriver.WebDriverFactory - Selenide v. 5.15.1
+[Test worker] INFO com.codeborne.selenide.webdriver.WebDriverFactory - Selenium WebDriver v. 3.141.59 build time: 2018-11-14T08:17:03
+[Test worker] INFO com.codeborne.selenide.drivercommands.CreateDriverCommand - Create webdriver in current thread 11: ChromeDriver -> ChromeDriver: chrome on WINDOWS (31fc7018de64eb64d393319059e1ff25)
+]]></system-err>
+</testsuite>
