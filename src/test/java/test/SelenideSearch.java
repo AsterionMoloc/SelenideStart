@@ -33,7 +33,7 @@ public class SelenideSearch {
             //кликнуть по ссылке SoftAssertions
             $x("//div/a[text()='SoftAssertions']").click();
 
-            //Убедится, что на странице присуствует присер кода JUnit5
+            //Убедится, что на странице присуствует пример кода JUnit5
             $("body").shouldHave(Condition.text("Using JUnit5 extend test class"));
 
         }
